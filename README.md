@@ -46,4 +46,4 @@ iframe标签用于内嵌窗口，但现在已经很少使用。
 * autocomplete：确定自动填充的内容。
 * target：与a标签的target相似。
 ### form标签的事件
-* onsubmit：当用户提交时，就会触发。# notes-of-HTML-2
+* onsubmit：当用户提交时，就会触发。
